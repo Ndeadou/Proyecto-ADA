@@ -9,6 +9,7 @@ en O(log n).
 
 - Miguel Descance
 - Erick Obando
+- Santiago Arenas
 
 ## Estructuras de datos utilizadas
 
