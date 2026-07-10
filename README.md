@@ -1,5 +1,3 @@
-#Integrantes: Miguel Descance, Erick Obando
-
 # Gestor de Tareas con Cola de Prioridad (Heap) y Árbol AVL
 
 Sistema de gestión de tareas para una aplicación de productividad. Combina un
@@ -9,9 +7,8 @@ en O(log n).
 
 ## Integrantes del grupo
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Miguel Descance
+- Erick Obando
 
 ## Estructuras de datos utilizadas
 
